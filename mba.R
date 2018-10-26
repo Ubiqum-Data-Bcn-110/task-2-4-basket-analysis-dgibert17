@@ -9,5 +9,5 @@
 ## If Blackwell does acquire Electronidex, do you have any recommendations for Blackwell?
       #(Ex: cross-selling items, sale promotions, should they remove items, etc.)#
 
-
+#### LOADING DATASET ####
 df = read.csv("C:/Users/David/Google Drive/Ubiqum/5_MBA/transactions.csv", header = F)
